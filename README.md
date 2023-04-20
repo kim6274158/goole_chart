@@ -12,6 +12,7 @@ insertdata.html->value.phpl->valuepie.php
 
 <응용>
 기본 - 숫자로 입력
+
 응용-> 문자로 입력 받아 빈도수 계산하여 pip 그래프 그리기(상위 5개만)
 
 valuetext.html->valuetext.phpl->valuepietext.php
