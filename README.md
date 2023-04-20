@@ -15,6 +15,8 @@ insertdata.html->value.phpl->valuepie.php
 
 valuetext.html->valuetext.phpl->valuepietext.php
 
+실행화면
+
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/127082884/233293648-88ca5cfc-dee2-436b-af66-898a102f677a.png">
 
 
